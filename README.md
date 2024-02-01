@@ -2,8 +2,11 @@
 <h3 align="center">Full Stack Developer 🚀</h3>
 
 - 🔭 I’m currently working on something cool. **something cool**
-- 🎓 Studying Computer Science at Private Higher School of Engineering and Technology (ITBS).
+
+- 🎓 Studying Computer Science at [Private Higher School of Engineering and Technology (ITBS)](https://itbs.tn/)
+
 - 🌱 Learning and exploring new technologies.
+
 - 📄 See my [Curriculum Vitae](https://drive.google.com/file/d/1p3D9iRNq9srX8z4XmveKLMAIX8sTLKwl/view)
 
 <h3 align="left">Connect with me:</h3>
