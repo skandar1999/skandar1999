@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SKANDAR SABRI </h1>
 <h3 align="center">Full Stack Developer 🚀</h3>
 
-- 🔭 I’m currently working on something cool. **(mention what you're working on)**
+- 🔭 I’m currently working on something cool. 
 
 - 🎓 Studying Computer Science at [Private Higher School of Engineering and Technology (ITBS)](https://itbs.tn/)
 
