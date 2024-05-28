@@ -1,4 +1,4 @@
-<img class="banner" src="./cover.png" alt="Banner Image">
+<img  src="./cover.PNG" alt="Banner Image">
 
 <h1>Hey 👋</h1>
 <h3>Currently: Software Engineering Student | Junior Full-Stack Developer 🚀</h3>
